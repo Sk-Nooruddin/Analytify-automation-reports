@@ -1,8 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","15844","Verify login with empty password","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","36875","Verify Remember Me persists login state after browser restart","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","18215","Verify login with invalid password","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","17631","Verify user logout successfully","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","13238","Verify login with empty username","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","17655","Verify user can login with valid credentials","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
-"","14065","Verify login with invalid username","auth-tests","2026-07-22","passed","2026-07-22","Authentication Module","auth.spec.ts","",""
