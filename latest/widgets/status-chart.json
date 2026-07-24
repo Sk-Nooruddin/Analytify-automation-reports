@@ -1,1 +1,1 @@
-[{"uid":"68b35c26382abb2f","name":"Authenticate User","time":{"start":1784813415767,"stop":1784813438186,"duration":22419},"status":"failed","severity":"normal"}]
+[{"uid":"b3b7d2ddcc1e7212","name":"Authenticate User","time":{"start":1784865541986,"stop":1784865559431,"duration":17445},"status":"passed","severity":"normal"},{"uid":"af3a3398b5709807","name":"creating basic cbp","time":{"start":1784865563164,"stop":1784865632109,"duration":68945},"status":"failed","severity":"normal"}]
