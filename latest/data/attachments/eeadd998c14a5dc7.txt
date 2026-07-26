@@ -1,0 +1,3 @@
+Current working directory: D:\Datagalance_Automation_Playwright
+Image path: D:\Datagalance_Automation_Playwright\src\testData\images\DG.png
+File exists: false
