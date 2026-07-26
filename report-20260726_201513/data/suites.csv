@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21356","creating basic cbp","chromium","2026-07-26","passed","2026-07-26","","cbp-editor\testing.spec.ts","",""
+"","12579","Authenticate User","setup","2026-07-26","passed","2026-07-26","","auth.setup.ts","",""
