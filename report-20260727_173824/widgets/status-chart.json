@@ -1,0 +1,1 @@
+[{"uid":"ecc4b76f1bb6b7c8","name":"Authenticate User","time":{"start":1785153928663,"stop":1785153940455,"duration":11792},"status":"passed","severity":"normal"},{"uid":"48a702e1484c8053","name":"creating basic cbp","time":{"start":1785153941996,"stop":1785154016291,"duration":74295},"status":"failed","severity":"normal"}]
