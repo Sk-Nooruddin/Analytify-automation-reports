@@ -1,0 +1,1 @@
+[{"uid":"a19b7b015714771d","name":"Authenticate User","time":{"start":1785243293677,"stop":1785243312585,"duration":18908},"status":"passed","severity":"normal"},{"uid":"fcf32eea0bd8445a","name":"should create a sticky note","time":{"start":1785243314014,"stop":1785243371531,"duration":57517},"status":"failed","severity":"normal"}]
