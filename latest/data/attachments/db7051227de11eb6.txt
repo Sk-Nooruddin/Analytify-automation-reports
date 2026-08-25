@@ -1,0 +1,107 @@
+
+==================================================
+SECTION STYLE- HEADING-1 AUTOMATION STARTED
+==================================================
+
+[1] Opening CBP Editor...
+✓ Home page opened
+✓ CBP Editor opened
+✓ Editor viewport configured
+
+[2] Opening Modify Style...
+✓ Modify Style modal displayed
+
+[3] Applying Section font properties...
+✓ Bold applied
+✓ Italic applied
+✓ Underline applied
+✓ Strikethrough applied
+✓ Center alignment applied
+✓ Font color selected: RED (#FF0000)
+✓ Background color selected: YELLOW (#FFFF00)
+✓ Font family selected: Calibri
+✓ Font size selected: 38px
+
+[4] Verifying Modify Style controls...
+✓ Apply button is enabled
+✓ Reset button is enabled
+
+[5] Applying Section style...
+✓ Apply button clicked
+✓ Success toast displayed
+✓ Modify Style modal closed
+
+[6] Verifying applied Section Header style...
+[VERIFY] Font Size | Expected: 38px | Actual: 38px
+✓ Font size verification PASSED
+[VERIFY] Font Family | Expected: Calibri | Actual: Calibri
+✓ Font family verification PASSED
+[VERIFY] Font Weight | Expected: 700 | Actual: 700
+✓ Font weight verification PASSED
+[VERIFY] Font Style | Expected: italic | Actual: italic
+✓ Font style verification PASSED
+[VERIFY] Text Alignment | Expected: center | Actual: center
+✓ Text alignment verification PASSED
+[VERIFY] Font Color | Expected: rgb(255, 0, 0) | Actual: rgb(255, 0, 0)
+✓ Font color verification PASSED
+[VERIFY] Background Color | Expected: rgb(255, 255, 0) | Actual: rgb(255, 255, 0)
+✓ Background color verification PASSED
+
+✓ ALL INITIAL SECTION STYLE VERIFICATIONS PASSED
+
+[7] Creating a new Section...
+✓ New Section created
+
+[8] Verifying new Section inherited the same styling...
+[VERIFY] Comparing Section 1 style with Section 2 style...
+✓ New Section inherited the same styling
+
+[9] Testing Reset functionality...
+✓ Modify Style modal displayed
+✓ Captured currently applied Section style
+✓ Temporary Bold change made
+✓ Temporary Italic change made
+✓ Temporary Underline change made
+✓ Temporary font change: Poppins
+✓ Temporary font size change: 12px
+✓ Temporary alignment change: Left
+✓ Temporary font color change: BLUE
+✓ Temporary background color change: WHITE
+✓ Reset button is enabled
+✓ Reset button clicked
+✓ Temporary changes reset inside the modal
+✓ Modify Style modal closed
+
+[10] Verifying Reset did not modify the applied Canvas style...
+✓ Canvas style remained unchanged after Reset
+✓ Reset functionality verification PASSED
+
+[11] Modifying Section properties and applying changes...
+✓ Modify Style modal displayed
+✓ Font changed to: Poppins
+✓ Font size changed to: 12px
+✓ Text alignment changed to: Right
+✓ Font color changed to: BLUE (#0000FF)
+✓ Background color changed to: WHITE (#FFFFFF)
+✓ Apply button is enabled
+✓ Modified Section style applied
+✓ Success toast displayed
+✓ Modify Style modal closed
+
+[12] Performing final Section style verification...
+[VERIFY] Font Family | Expected: Poppins | Actual: Poppins
+✓ Font family verification PASSED
+[VERIFY] Font Size | Expected: 12px | Actual: 12px
+✓ Font size verification PASSED
+[VERIFY] Text Alignment | Expected: right | Actual: right
+✓ Text alignment verification PASSED
+[VERIFY] Font Color | Expected: rgb(0, 0, 255) | Actual: rgb(0, 0, 255)
+✓ Font color verification PASSED
+[VERIFY] Background Color | Expected: rgb(255, 255, 255) | Actual: rgb(255, 255, 255)
+✓ Background color verification PASSED
+
+==================================================
+✓ SECTION STYLE HEADING 1 AUTOMATION COMPLETED SUCCESSFULLY
+==================================================
+Downloaded file: Test_cbp_font_style.cbp
+Saved file: D:\Dataglance_Automation_Playwright\src\testData\downloads\Test_cbp_font_style.cbp
