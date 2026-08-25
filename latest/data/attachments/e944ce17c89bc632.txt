@@ -1,0 +1,7 @@
+
+==================================================
+SECTION STYLE- HEADING-1 AUTOMATION STARTED
+==================================================
+
+[1] Opening CBP Editor...
+✓ Home page opened
